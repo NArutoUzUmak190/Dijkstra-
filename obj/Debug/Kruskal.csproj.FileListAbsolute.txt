@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\bin\Debug\Kruskal.exe.config
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\bin\Debug\Kruskal.exe
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\bin\Debug\Kruskal.pdb
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.Form1.resources
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.exe
+C:\Users\DELL\OneDrive\Documentos\Uat\5.-Quinto Semestre Uat\Analizis de Algoritmo\Kruskal\obj\Debug\Kruskal.pdb
